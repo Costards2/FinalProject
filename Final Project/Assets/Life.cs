@@ -13,4 +13,12 @@ public class Life : MonoBehaviour
             life--;
         }
     }
+
+    private void Update()
+    {
+        if (life <=0) 
+        {
+            Destroy(gameObject);
+        }
+    }
 }

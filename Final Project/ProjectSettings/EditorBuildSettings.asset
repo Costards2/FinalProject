@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Fase2.unity
     guid: 2e61ed3931c183b4785e565138d8d0a2
+  - enabled: 1
+    path: Assets/Scenes/Amor.unity
+    guid: 977116c15e93ecd40b68c645c59f5e38
   m_configObjects: {}
