@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Life : MonoBehaviour
 {
+    public GameObject derrota; 
     [SerializeField] public int life;
 
     private void OnCollisionExit2D(Collision2D collision)
@@ -19,6 +20,9 @@ public class Life : MonoBehaviour
         if (life <=0) 
         {
             Destroy(gameObject);
+            Cursor.visible = true;
+            derrota.SetActive(true);
+            
         }
     }
 }
