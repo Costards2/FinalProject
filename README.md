@@ -1,7 +1,7 @@
 # [JD0008] Programação e Jogos 
 ----
 
-# projeto Final
+# Projeto Final
 
 UNEB
 
