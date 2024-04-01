@@ -1,2 +1,8 @@
-# FinalProject
-Projeto Final da Disciplina Programação de Jogos
+# [JD0008] Programação e Jogos 
+----
+
+# projeto Final
+
+UNEB
+
+C# - Codes
